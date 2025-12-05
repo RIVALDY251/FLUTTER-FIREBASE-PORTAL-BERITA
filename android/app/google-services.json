@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758687413898",
+    "project_id": "flutter-firebase-app-776b5",
+    "storage_bucket": "flutter-firebase-app-776b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758687413898:android:ad18bbf68a7f8c58be1f73",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_tugas8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD9CLTwJ6uF858Q2mSqyZkCfrH-mTCItU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
